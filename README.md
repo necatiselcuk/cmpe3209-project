@@ -9,3 +9,4 @@ Necati Selçuk, 5001240039 — G2 Sınav notu dağılımı
 - `asm_O0.s`, `asm_O1.s`: gcc 16.1.0 ham assembly çıktıları (-O0 / -O1, M2)
 - `screenshots/`: RARS ekran görüntüleri (`m1_*`: program çıktıları, `m2_enc_*`: machine code doğrulaması)
 - `tutanak/`: proje teslim tutanağı (her aşamanın PDF ve Word hali)
+- `objdump_O0.txt`: -O0 nesne dosyasının objdump -d çıktısı
